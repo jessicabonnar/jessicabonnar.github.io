@@ -179,6 +179,7 @@
   border-color: white;
   margin: 10px;
   transition: 0.3s;
+  cursor: default;
 }
 
 .schedule-event-hover {
